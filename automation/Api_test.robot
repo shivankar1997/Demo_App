@@ -4,8 +4,8 @@ Library     Collections
 Test Setup      Auth_Test
 
 *** Variables ***
-${base_url}=    http://localhost:8080
-@{auth_cred}   root   123
+${base_url}=    http://localhost:8081
+@{auth_cred}   root   12345
 
 
 *** Keywords ***

@@ -1,6 +1,6 @@
 *** Settings ***
 Library     SeleniumLibrary
-Test Setup     open browser    http://localhost:8080       chrome
+Test Setup     open browser    http://localhost:8081       chrome
 Test Teardown      close all browsers
 
 *** Variables ***
