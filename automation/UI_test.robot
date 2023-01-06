@@ -4,7 +4,7 @@ Test Setup     open browser    http://localhost:8081       chrome
 Test Teardown      close all browsers
 
 *** Variables ***
-${username}=     root1
+${username}=     root
 ${password}=     123
 ${firstname}=       john
 ${familyname}=      wick
